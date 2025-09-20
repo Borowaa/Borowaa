@@ -1,75 +1,107 @@
-🎯 Portfolio – Data Analysis & Game Development (MSc Informatics & Econometrics)
+# 🎯 Portfolio – Data Analysis & Game Development  
+*MSc Informatics & Econometrics*  
 
-Hi, I’m Mateusz Borowczak — a data-focused MSc student in Informatics & Econometrics.
-I specialize in data analysis, Python, and Unity-based simulations. My goal is to work in data analytics / business intelligence / data science, where I can apply both technical and analytical skills to deliver clear insights and reproducible solutions.
+Hi, I’m **Mateusz Borowczak** — a data-focused MSc student specializing in **data analysis, Python, and Unity-based simulations**.  
+My goal is to work in **data analytics / business intelligence / data science**, delivering **clear insights and reproducible solutions**.  
 
-Focus areas: statistical analysis, data visualization, metrics design, telemetry, and applying AI-assisted workflows in research.
+---
 
-🔑 Highlights
+## 🔍 Focus Areas
+- 📊 Statistical analysis & visualization  
+- 📈 Metrics design & telemetry  
+- 🤖 AI-assisted workflows in research  
+- 🕹️ Game & simulation analytics  
 
-Master’s Thesis Project: AI Re-Creation Study — Rebuilding a Human-Made Game with Generative Tools
-Reproducing a released indie game in Unity using AI-assisted tools, then comparing time, cost, and quality with the original.
-Why it matters: delivers measurable evidence on when AI tools are efficient—and when human input is essential.
+---
 
-Previous Work — “Green Horizon” (Mayor Simulator):
-Co-developed a simulation game with a focus on economy balancing, system design, and analytics setup.
+## 🔑 Highlights  
 
-Analytical Toolkit from University Coursework:
+### 🎓 Master’s Thesis Project: *AI Re-Creation Study*  
+- Rebuilding a released indie game in Unity with **AI-assisted tools**  
+- Comparing **time, cost, and quality** with the original  
+- **Impact:** measurable insights on when AI is efficient—and when human creativity is essential  
 
-SAP Fiori – basics of enterprise systems navigation and reporting
+### 🎮 Previous Work: *Green Horizon (Mayor Simulator)*  
+- Co-developed a simulation game with focus on **economy balancing, system design & analytics setup**  
 
-SAS / SAS Viya – fundamentals of statistical analysis and data processing
+---
 
-Excel VBA – introductory automation and macro creation
+## 📚 Analytical Toolkit (University Coursework)  
 
-Technical Experience: Python (NumPy, pandas, scikit-learn), Unity/C#, Blender, MATLAB (background), Postman (API testing), MongoDB (via Robo 3T).
-🧪 Master’s Thesis — AI Re-Creation Study
+| Tool            | Skills |
+|-----------------|----------------------------------------------------|
+| **SAP Fiori**   | Basics of enterprise systems navigation & reporting |
+| **SAS / Viya**  | Fundamentals of statistical analysis & processing   |
+| **Excel VBA**   | Introductory automation & macro creation            |
 
-Goal: Recreate a human-made game with AI support and evaluate:
+---
 
-Productivity: development speed and bug density
+## 🧪 Master’s Thesis — AI Re-Creation Study  
 
-Cost: API/tool costs vs. manual effort
+**Goal:** Recreate a human-made game with AI support and evaluate:  
+- ⚡ Productivity: development speed & bug density  
+- 💰 Cost: API/tool usage vs. manual effort  
+- 🎮 Quality: gameplay parity, performance, asset fidelity  
+- 🛠️ Maintainability: code complexity & extensibility  
 
-Quality: gameplay parity, performance, and asset fidelity
+**Methods:**  
+- Telemetry tracking of playtests *(session time, win/loss ratios, difficulty curves)*  
+- Data analysis in Python (`pandas`, `matplotlib`)  
+- Code metrics & reproducible evaluation scripts  
 
-Maintainability: code complexity and future extensibility
+---
 
-Methods:
+## 📊 Example Analytics  
+- **KPIs:** completion % per level, difficulty pacing, player churn estimates  
+- **Dashboards:** Jupyter notebooks generating reproducible visualizations  
+- **Pipeline:** `scripts/evaluate.py` → outputs KPI report in `/reports/`  
 
-Telemetry tracking of playtests (session time, win/loss ratios, difficulty curves).
+---
 
-Data analysis with Python (pandas, matplotlib, scikit-learn).
+## 🧰 Tech Stack  
 
-Code metrics and reproducible evaluation scripts.
+### 🔹 Data & Analytics  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-003B57?style=flat&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
 
-📊 Example Analytics
+**Basics:** SAS (base, Viya), Excel VBA  
 
-KPIs: completion % per level, difficulty pacing, player churn estimates.
+---
 
-Dashboards: Jupyter notebooks generating reproducible visualizations.
+### 🔹 Enterprise Systems  
+![SAP](https://img.shields.io/badge/SAP-F0AB00?style=flat&logo=sap&logoColor=white)  
 
-Sample pipeline: scripts/evaluate.py → outputs KPI report in /reports/.
+---
 
-🧰 Tech Stack
+### 🔹 Game Development & Tools  
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)  
 
-Data & Analytics: Python, pandas, NumPy, scikit-learn, matplotlib, Jupyter, SAS (base, Viya) – basic, Excel VBA – basic
-Enterprise Systems: SAP Fiori – basic
-Game & Tools: Unity (C#), Blender
-Databases: MongoDB (Robo 3T), CSV/Parquet
-Other: MATLAB (numerics), Postman (API testing), Git
-🤝 What I Bring
+---
 
-Strong data analysis skills with focus on clarity and reproducibility.
+### 🔹 Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
-Ability to connect analytics with product outcomes (games, simulations, experiments).
+---
 
-Experience across multiple tools, from statistical software to databases and enterprise systems.
+### 🔹 Other  
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
-Team-oriented mindset — clear reporting, clean code, and communication of findings.
+---
 
-📩 Contact
+## 🤝 What I Bring  
+- 📊 Strong **data analysis skills** with focus on clarity & reproducibility  
+- 🔗 Ability to **connect analytics with product outcomes** (games, simulations, experiments)  
+- 🛠️ Experience across tools: from **statistical software to databases & enterprise systems**  
+- 👥 **Team-oriented mindset** — clear reporting, clean code, and strong communication  
 
-Email: mateo.borw.01@gmail.com
+---
 
-LinkedIn: https://www.linkedin.com/in/mateusz-borowczak
+## 📩 Contact  
+- ✉️ Email: mateo.borw.01@gmail.com  
+- 🔗 LinkedIn https://www.linkedin.com/in/mateusz-borowczak
