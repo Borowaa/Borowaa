@@ -1,6 +1,6 @@
 🎯 Portfolio – Data Analysis & Game Development (MSc Informatics & Econometrics)
 
-Hi, I’m [Your Name] — a data-focused MSc student in Informatics & Econometrics.
+Hi, I’m Mateusz Borowczak — a data-focused MSc student in Informatics & Econometrics.
 I specialize in data analysis, Python, and Unity-based simulations. My goal is to work in data analytics / business intelligence / data science, where I can apply both technical and analytical skills to deliver clear insights and reproducible solutions.
 
 Focus areas: statistical analysis, data visualization, metrics design, telemetry, and applying AI-assisted workflows in research.
@@ -70,6 +70,6 @@ Team-oriented mindset — clear reporting, clean code, and communication of find
 
 📩 Contact
 
-Email: [your.email@domain.com]
+Email: mateo.borw.01@gmail.com
 
-LinkedIn: [linkedin.com/in/your-handle]
+LinkedIn: https://www.linkedin.com/in/mateusz-borowczak
